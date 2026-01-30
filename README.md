@@ -61,3 +61,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 + Optimize discount strategies to balance profit margins
 + Focus marketing on top-rated products and high-revenue age groups
 + Target users preferring express shipping for premium offers
+
+
+  <img width="1530" height="864" alt="image" src="https://github.com/user-attachments/assets/e220de32-9d34-4020-9fa8-8aab00e1f82c" />
+
